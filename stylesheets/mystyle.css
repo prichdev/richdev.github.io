@@ -1,0 +1,35 @@
+img {
+    float: left;
+    padding-right: 50px;
+}
+
+h1 {
+    padding-top: 100px;
+    margin-bottom: 0;
+}
+
+h5 {
+    margin-top: 0;
+    color: gray;
+}
+
+* {
+    font-family: sans-serif;
+}
+.resumebtn .btn {
+    padding: 0.7rem 1.5rem;
+    border-radius: .5em;
+    color: #fff;
+    background: #3a18d2f5;
+    font-family: sans-serif;
+}
+pre{
+    color: gray;
+}
+.fa {
+  padding: 30px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+
+}
